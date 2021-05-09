@@ -16,6 +16,11 @@
     <properties>
         <java.version>11</java.version>
     </properties>
+    <properties>
+        <sonar.projectKey>dc-rubiano-rojas_sonarcloud</sonar.projectKey>
+        <sonar.organization>dc-rubiano-rojas</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

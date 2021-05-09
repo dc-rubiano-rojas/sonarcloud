@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vacunas-mascotas",
+  "private_key_id": "5f49e7cb3710e7620964d98607e125ff73ca7264",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDidUMIfGmecQcr\nwRpZYpAgCm7CowaDFIuIdX5ftyCFiiYUZjVACE7oWHA/l+CwnS/KJX7pbJIBMPsp\nwlKCSjzX7oEAtJnOPcciT2N80bkGx1ZUKwJxjY3bSbcu0ubUyz9bWrQjj+X3cVdI\nruBF3ecjCLe9qQfL7IMUprWrdZTjEcTIGk/RyS86tsRlfhVZakz52XvIom2usdNU\nXMpUcP+aojjiv1/NT5uBuupmNiO/YTz0CeJOP9daZRTLqeki4lnbb6iWDQm731Da\njK9JP2dnBAehhJYsaZtMC55g4cikHOxg9CzYhniH3CPVfmRDoqlHEaIe4K8lGyMT\neYtX9aDvAgMBAAECggEAQxJM/M3wcFN0tsJWPgQhwMOmQ3KKgrdKjmuSNuIjuTmO\nBruw6NqtGEbdVBB1JYogteP+Hz+fTMgHk7owutMnCyNiROW4qiuE98YApt7syLOw\nf3RPoHc2/Sxrm2wunvbluHZ4ZRIBIBULL4VP+pF7HFbAKOXP39eYiTzJENPd+ZRi\ng7vQJHN57rNhvatLe+1AYPrv6rijyT79+izcS0TiYGPvN6spNr7XYwN10V0teohJ\nQ5HnkIH571XZYFSfaiHTBVW9HHVftKT0Fq1WwUGpJ2mrsx3sWeuqqkI2PHq6uMNy\nHXnE9pdHIYB16+25XBzLhcL8Mo6VkNQZUENNgIG7BQKBgQD2lwHqV/DgTqH0Olwl\n/FJklTBTNUA8+tSN/+/NCCGQy4p0e7dH67Sja49GyradK0A/wBiPni1+6egQ4Of7\nrQ9Jqk8qqU2mYvuC56ml1gV0Nt5kmdNyqQ92AjkCAMorHZKdyhFNxDBAYw2cwnOO\nhCLKRLMEk2ujCUetwXnxm3v2swKBgQDrGZUBVkRK6RVUCsD0ybMVG0fzx3OyvQvv\nrF7RjKEg6aM+RzqD8BX6jFf0mg3Vkd6+po6i8UGne2RFO1xKu/cyyKsvdK8jK6uQ\njACiIoaNI6V6+ojY+O+jjT7CMQkIU/qhZwur7BMyo/A50qPJnCbRqVhzQSedVm9B\nRdSOO0gq1QKBgAZnaY9SdVj98crL8TSzVthx321pxp9OzFJbwTiL64M9Jf1ccSgX\nAPv1gSUPgqqWQvbk4D5qlzfijzpQ/PVWSz1YhPHQr8mQbIO7zHYYFtAr1J68N/eU\nWGhyKlTY/GceP36Fjul8HNyvNd1KV4HuAJFMM3H8+iCjzw6+JZKWvSNtAoGAGxoY\n3k2Wk9go2EZhFhcGaQF7GvQ8Nzep35hMWfXPQV8NrYlCiqErt3VkUlNMEvm85teG\ni+wp+Ge2GHEOY6MljRoq+c6GvhQzs/cfv5EhV7XrRrEJA5I29fC7cmF6vBYKR378\njnYphGX3tIK+1OgGZZcTFj5FldK4AptNNJRK7n0CgYAX5lXBVEM5KbrwgCfBnCCB\nmBe4umLJQgWpEXbf8BcavtPfX68boL/mnapa8wq/WLF40/BP1WKKZerRZI2VRHNp\n77NjIiV2VVoi2SDuPEvEmod6Doc/3H3DygttsVNP2NzIl+HrK2VPPDsA43OD+6R5\nsj8LjL2TejfO2QV+iQiYSw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n0jkg@vacunas-mascotas.iam.gserviceaccount.com",
+  "client_id": "101562793438006745372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n0jkg%40vacunas-mascotas.iam.gserviceaccount.com"
+}
